@@ -1,0 +1,11 @@
+.llms-2co-payment-method iframe#two-co-iframe {
+    width: 100% !important;
+}
+
+#llms-2co-card-element {
+	padding: 10px;
+}
+
+.llms-2co-payment-method > p {
+	padding: 0px 10px;
+}

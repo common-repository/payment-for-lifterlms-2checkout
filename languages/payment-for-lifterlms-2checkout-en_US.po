@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment For LifterLMS 2checkout\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-28 21:30+0000\n"
+"PO-Revision-Date: 2021-01-28 21:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: payment-for-lifterlms-2checkout"
+
+#: includes/class-cg-2checkout-llms-notification.php:68
+msgid "2Checkout"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:32
+msgid "2Checkout sandbox can be used to test payments."
+msgstr ""
+
+#. Description of the plugin
+msgid "Accept Credit Card and PayPal payments in LifterLMS via 2Checkout"
+msgstr ""
+
+#. Author of the plugin
+msgid "codeglitters"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:27
+msgid "Collect payments using 2Checkout."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:93
+msgid "Copy this Endpoint."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:64
+msgid "Enter your 2Checkout account number/ merchant code."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:71
+msgid "Enter your 2Checkout secret key."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:78
+msgid "Enter your 2Checkout secret word."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeglitters.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeglitters.com/payment-for-lifterlms-2checkout"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:94
+msgid "INS Endpoint"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:86
+msgid "Language"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:65
+msgid "Merchant Code"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:230
+msgid "Pay securely using your credit card or PayPal"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:30
+msgid "Pay via Card"
+msgstr ""
+
+#. Name of the plugin
+msgid "Payment For LifterLMS 2checkout"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-notification.php:84
+msgid "Payment Fraud Suspected."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:191
+msgid "Payment in fraud review."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:192
+msgid "Please wait a while for the payment fraud review."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:72
+msgid "Secret Key"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:79
+msgid "Secret Word"
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:85
+msgid "Select checkout payment form language."
+msgstr ""
+
+#: includes/class-cg-2checkout-llms-gateway.php:31
+msgid "Test Mode"
+msgstr ""
